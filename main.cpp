@@ -1,5 +1,5 @@
 void main()
 {
-	printf("bbb");
+	printf("bbb Error Fixed");
 	algo();
 }
